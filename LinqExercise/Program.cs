@@ -26,13 +26,13 @@ namespace LinqExercise
 
             //TODO: Order numbers in ascending order and print to the console
 
-            //TODO: Order numbers in decsending order and print to the console
+            //TODO: Order numbers in descending order and print to the console
 
             //TODO: Print to the console only the numbers greater than 6
 
-            //TODO: Order numbers in any order (acsending or desc) but only print 4 of them **foreach loop only!**
+            //TODO: Order numbers in any order (ascending or desc) but only print 4 of them **foreach loop only!**
 
-            //TODO: Change the value at index 4 to your age, then print the numbers in decsending order
+            //TODO: Change the value at index 4 to your age, then print the numbers in descending order
 
             // List of employees ****Do not remove this****
             var employees = CreateEmployees();
